@@ -8,7 +8,7 @@
   
 - 👧🎓 I’m an Undergraduate at SLIIT
 
-- 💬 Ask me about **MERN,Java**
+- 💬 Ask me about **Python,SQL,MERN and Java**
 
 - 📫 How to reach me **yasasvivilochana31@gmail.com**
 
