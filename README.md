@@ -4,7 +4,7 @@
 <img align="right" alt="pic" width="300" src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif">
 
 
-- 🌱 I’m currently learning **Data science**
+- 🌱 I’m currently learning **Data science** and **AI/ML**
   
 - 👧🎓 I’m an Undergraduate at SLIIT
 
