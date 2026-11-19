@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data science** and **AI/ML**
   
-- 👧🎓 I’m an Undergraduate at SLIIT
+- 👧🎓 I’m a recent graduate at SLIIT
 
 - 💬 Ask me about **Python,SQL,MERN and Java**
 
@@ -39,9 +39,3 @@
 </table>
 
 <br>
-
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
